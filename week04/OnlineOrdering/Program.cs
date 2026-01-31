@@ -20,9 +20,9 @@ class Program
         Customer cust1 = new Customer("Chloe Park", addr1);
 
         Order order1 = new Order(cust1);
-        order1.AddProduct(new Product("Wireless Mouse", "WM-1001", 18.99m, 2));
-        order1.AddProduct(new Product("USB-C Cable", "UC-2040", 7.50m, 3));
-        order1.AddProduct(new Product("Display Arm", "LS-7288", 25.00m, 1));
+        order1.AddProduct(new Product("Wireless Headphones", "WH-1001", 18.99m, 2));
+        order1.AddProduct(new Product("HDMI Cable", "HC-2040", 7.50m, 3));
+        order1.AddProduct(new Product("Display Arm", "DA-7288", 25.00m, 1));
 
     
         // ORDER 2 (International customer)
