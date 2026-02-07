@@ -5,7 +5,7 @@ class Program
     static void Main(string[] args)
     {
 
-        string descriptionB = "This activity will help you relax by walking you through breathing in and out slowly.\nClear your mind and focus on your breathing.";
+        string descriptionB = "This activity will help you lower your stress levels through deep, rhythmic breathing.\nLet go of the tension in your body and follow the timed cues closely.";
         string descriptionR = "This activity will help you reflect on times in your life when you have shown strength and resilience.\nThis will help you recognize the power you have and how you can use it in other aspects of your life.";
         string descriptionL = "This activity will help you reflect on the good things in your life by having you list as many things as you can in a certain area.";
 

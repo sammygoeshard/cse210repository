@@ -13,11 +13,10 @@ public class ListingActivity : Activity
 
         _promptBag = new ShuffleBag<string>(new List<string>
         {
-            "Who are people that you appreciate?",
-            "What are personal strengths of yours?",
-            "Who are people that you have helped this week?",
-            "When have you felt the Holy Ghost this month?",
-            "Who are some of your personal heroes?"
+            "What are some small things that made you smile today?",
+            "Which parts of your home or environment are you most grateful for?",
+            "What are some skills or talents you possess that you appreciate?",
+            "Think of specific experiences from the last year that brought you joy."
         });
     }
 
