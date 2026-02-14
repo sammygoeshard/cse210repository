@@ -1,0 +1,3 @@
+user
+0
+Simple|Drink water|drink 20L of water today|50|False

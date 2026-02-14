@@ -1,0 +1,4 @@
+250
+Simple|take a walk|walk for 15 minutes|50|True
+Eternal|Read the Scriptures|read the scriptures 30 minutes every day|100
+Checklist|Attend Weekly Gatherings|prepare, attend and contribute positively to weekly gatherings|100|14|7|1
